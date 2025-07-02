@@ -1,7 +1,35 @@
+/* Regular */
 @font-face {
   font-family: 'Ericsson Hilda';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('https://www.ericsson.com/cdn/fonts/ericsson-hilda-regular.woff') format('woff');
+  src: url('https://pgtips55.github.io/test/ericsson-hilda-regular.woff') format('woff');
+}
+
+/* Italic */
+@font-face {
+  font-family: 'Ericsson Hilda';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://pgtips55.github.io/test/ericsson-hilda-regular.woff') format('woff');
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Ericsson Hilda';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('https://pgtips55.github.io/test/ericsson-hilda-bold.woff') format('woff');
+}
+
+/* Bold Italic */
+@font-face {
+  font-family: 'Ericsson Hilda';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('https://pgtips55.github.io/test/ericsson-hilda-bold.woff') format('woff');
 }
